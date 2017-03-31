@@ -1,0 +1,35 @@
+/* Twitch User Statuses */
+
+.content > p > span {
+  vertical-align: middle;
+  padding-bottom: 2px;
+  padding-left: 5px;
+}
+
+.content > p > small {
+  padding-left: 5px;
+}
+
+.online {
+  color: #00D1B2;
+}
+
+.offline {
+  color: #FF3860;
+}
+
+#error-messages > .notification {
+    margin-bottom: 5px;
+}
+
+.fadeInLeft {
+  animation-duration: 0.2s !important;
+}
+
+.media-left {
+  padding-left: 15px;
+}
+
+.media:nth-child(1) {
+  margin-top: 20px;
+}
